@@ -4,7 +4,7 @@ import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianG
 /* ============================================================
    CONFIG — edit these values
    ============================================================ */
-const GOLDAPI_KEY = ""; // free key at https://www.goldapi.io ; blank = free fallback
+const GOLDAPI_KEY = "goldapi-f87932c125f3d5504a298673fb1ad6b7-io"; // free key at https://www.goldapi.io ; blank = free fallback
 const YOUTUBE_HANDLE = "ethnstacks";
 const YOUTUBE_URL = "https://youtube.com/@ethnstacks";
 const SUBSCRIBER_GOAL = 500;
